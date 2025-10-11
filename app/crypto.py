@@ -1,3 +1,6 @@
+"""Модуль для шифрования и дешифрования данных с использованием Fernet."""
+# CryptoManager
+
 from cryptography.fernet import Fernet
 import os
 

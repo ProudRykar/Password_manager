@@ -1,3 +1,6 @@
+"""Модуль для работы с SQLite базой данных."""
+# AuthManager
+
 import sqlite3
 import bcrypt
 

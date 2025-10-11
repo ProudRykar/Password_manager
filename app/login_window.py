@@ -1,3 +1,6 @@
+"""Модуль окна входа / регистрации пользователя."""
+# LoginWindow
+
 from PyQt6.QtWidgets import QDialog, QLabel, QGridLayout, QLineEdit, QPushButton, QMessageBox
 from PyQt6.QtCore import Qt
 from auth import AuthManager

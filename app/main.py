@@ -1,3 +1,6 @@
+"""Основное окно приложения с тромя вкладками: пароли, токены и recovery коды."""
+# MainWindow
+
 import sys
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QTabWidget, QVBoxLayout,

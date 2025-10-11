@@ -1,3 +1,6 @@
+"""Модуль для работы с SQLite базой данных."""
+# DBManager
+
 import sqlite3
 
 class DBManager:
